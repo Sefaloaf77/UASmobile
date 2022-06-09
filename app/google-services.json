@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "951354912544",
+    "firebase_url": "https://androidprak8-default-rtdb.firebaseio.com",
+    "project_id": "androidprak8",
+    "storage_bucket": "androidprak8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951354912544:android:24bf33a7ea24501bc37145",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXRUZSr3dQLqAYENKAmLusixgzbZHUdzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951354912544:android:bea6c64c4b9911d6c37145",
+        "android_client_info": {
+          "package_name": "com.example.android_prak8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXRUZSr3dQLqAYENKAmLusixgzbZHUdzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951354912544:android:9494e0b33093145cc37145",
+        "android_client_info": {
+          "package_name": "com.example.latansa_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXRUZSr3dQLqAYENKAmLusixgzbZHUdzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951354912544:android:7ce8540d71490700c37145",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_psi_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXRUZSr3dQLqAYENKAmLusixgzbZHUdzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951354912544-5bit5bm71v3e1r11d1loui0kd60ttap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

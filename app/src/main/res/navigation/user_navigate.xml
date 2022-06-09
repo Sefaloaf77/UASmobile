@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/product_detail_navigate"
+    app:startDestination="@id/homeFragment">
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.praktikum_psi_final.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" >
+        <action
+            android:id="@+id/action_loginActivity_RegisterFragment"
+            app:destination="@id/registerActivity" />
+        <action
+            android:id="@+id/action_loginActivity_homeFragment"
+            app:destination="@id/homeFragment" />
+    </activity>
+    <activity
+        android:id="@+id/registerActivity"
+        android:name="com.example.praktikum_psi_final.RegisterActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_register" >
+        <action
+            android:id="@+id/action_registerActivity_HomeFragment"
+            app:destination="@id/homeFragment" />
+    </activity>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.praktikum_psi_final.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_detailFragment"
+            app:destination="@id/detailProductFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.example.praktikum_psi_final.CategoryFragment"
+        android:label="fragment_category"
+        tools:layout="@layout/fragment_category" >
+        <action
+            android:id="@+id/action_categoryFragment_productByCategoryFragment"
+            app:destination="@id/productByCategoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/productByCategoryFragment"
+        android:name="com.example.praktikum_psi_final.ProductByCategoryFragment"
+        android:label="fragment_product_by_category"
+        tools:layout="@layout/fragment_product_by_category" >
+        <action
+            android:id="@+id/action_productByCategoryFragment_detailFragment"
+            app:destination="@id/detailProductFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailProductFragment"
+        android:name="com.example.praktikum_psi_final.DetailProductFragment"
+        android:label="fragment_detail_product"
+        tools:layout="@layout/fragment_detail_product"/>
+</navigation>

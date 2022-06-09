@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/drawable/bg_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/drawable/ic_category.xml" value="0.2203125" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/activity_register.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/fragment_category.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/layout/item_view_product.xml" value="0.22" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/user/app/src/main/res/layout/activity_detail_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/user/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/user/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/user/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/android/praktikumpsifinal/user/app/src/main/res/layout/item_view_product.xml" value="0.14583333333333334" />
+=======
+>>>>>>> parent of 0542cce... add adapter
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18931159420289856" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
